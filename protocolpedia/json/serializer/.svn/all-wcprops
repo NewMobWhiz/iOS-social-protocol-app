@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer
+END
+NSMutableArray+SetObjectAtIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableArray+SetObjectAtIndex.m
+END
+SerializerMap.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/SerializerMap.plist
+END
+NSObject+Serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSObject+Serializer.h
+END
+NSMutableString+AppendStringIfNotNil.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableString+AppendStringIfNotNil.h
+END
+NSMutableDictionary+setObjectIfNotNil.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableDictionary+setObjectIfNotNil.h
+END
+NSObject+Serializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSObject+Serializer.m
+END
+NSMutableString+AppendStringIfNotNil.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableString+AppendStringIfNotNil.m
+END
+NSMutableArray+SetObjectAtIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableArray+SetObjectAtIndex.h
+END
+NSMutableDictionary+setObjectIfNotNil.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/haploid/!svn/ver/10163/svn/Externals/JSON/Base/iOS/JSON/Serializer/NSMutableDictionary+setObjectIfNotNil.m
+END

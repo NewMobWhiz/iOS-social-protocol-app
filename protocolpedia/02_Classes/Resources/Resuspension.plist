@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ResuspensionQtyValue</key>
+	<string>10.000</string>
+	<key>ResuspensionQtyUnits</key>
+	<string>OD260</string>
+	<key>ResuspensionType</key>
+	<string>Single-Stranded DNA, 33µg/OD260</string>
+	<key>ResuspensionMolecularWeight</key>
+	<string>0.00</string>
+	<key>ResuspensionMolecularWeightNote</key>
+	<string></string>
+</dict>
+</plist>

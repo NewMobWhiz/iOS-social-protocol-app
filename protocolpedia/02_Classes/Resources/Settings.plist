@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastDownload</key>
+	<string>Oct 1, 2010 1:47 PM</string>
+	<key>RememberMe</key>
+	<string>Yes</string>
+	<key>SearchType</key>
+	<string>Any Words</string>
+	<key>SearchFor</key>
+	<string></string>
+	<key>Red</key>
+	<string>235</string>
+	<key>Green</key>
+	<string>235</string>
+	<key>Blue</key>
+	<string>235</string>
+	<key>TintRed</key>
+	<string>46</string>
+	<key>TintGreen</key>
+	<string>133</string>
+	<key>TintBlue</key>
+	<string>189</string>
+	<key>TextRed</key>
+	<string>255</string>
+	<key>TextGreen</key>
+	<string>255</string>
+	<key>TextBlue</key>
+	<string>255</string>
+	<key>ColorChanged</key>
+	<string>No</string>
+	<key>LastSearch</key>
+	<string></string>
+	<key>ShowDownloadMessage</key>
+	<string>Yes</string>
+</dict>
+</plist>

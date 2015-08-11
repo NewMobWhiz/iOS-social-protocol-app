@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE92103B-447A-4D4B-96A2-13B14350840F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProtocolPedia</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2EEA970D350F86CB9941C6E5BEB16D32C8CE716D</key>
+		<string>https://bitbucket.org/huemedscience/protocolpedia-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProtocolPedia/ProtocolPedia.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2EEA970D350F86CB9941C6E5BEB16D32C8CE716D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/huemedscience/protocolpedia-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2EEA970D350F86CB9941C6E5BEB16D32C8CE716D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2EEA970D350F86CB9941C6E5BEB16D32C8CE716D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>

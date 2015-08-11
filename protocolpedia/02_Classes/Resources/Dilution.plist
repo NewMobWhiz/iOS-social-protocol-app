@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DilutionStockUnits</key>
+	<string>molar</string>
+	<key>DilutionWorkingUnits</key>
+	<string>molar</string>
+	<key>DilutionDesiredUnits</key>
+	<string>liters</string>
+	<key>DiltuionStockValue</key>
+	<string>0.000</string>
+	<key>DilutionWorkingValue</key>
+	<string>0.000</string>
+	<key>DilutionDesiredValue</key>
+	<string>0.000</string>
+	<key>ResultsUnits</key>
+	<string>liters</string>
+</dict>
+</plist>

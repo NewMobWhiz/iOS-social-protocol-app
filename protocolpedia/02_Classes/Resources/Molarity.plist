@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MolarityMolecularWeightValue</key>
+	<string>0.000</string>
+	<key>MolarityDesiredMolarUnits</key>
+	<string>molar</string>
+	<key>MolarityDesiredMolarValue</key>
+	<string>0.000</string>
+	<key>MolarityFinalVolumeUnits</key>
+	<string>liters</string>
+	<key>MolarityFinalVolumeValue</key>
+	<string>0.000</string>
+	<key>UnitsOfSolutionToAdd</key>
+	<string>liters</string>
+</dict>
+</plist>

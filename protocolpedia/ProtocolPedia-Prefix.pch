@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'ProtocolPedia' target in the 'ProtocolPedia' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "GlobalMethods.h"
+#endif
+
+
+#import "PPAppDelegate.h"
+#define applicationDelegate ((PPAppDelegate *)[[UIApplication sharedApplication] delegate])
+
+#define kPPUsername @"PPUsername"
+#define kPPPassword @"PPPassword"
